@@ -2,9 +2,12 @@ FROM --platform=linux/amd64 python:3.10-slim
 
 WORKDIR /app
 
+# Copy and install only needed libraries
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY main.py .
+# Copy rest of the project
+COPY . .
 
-CMD ["python", "main.py"]
+# Run the main prediction script
+CMD ["python", "main.py"]
