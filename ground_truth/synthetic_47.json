@@ -1,0 +1,110 @@
+{
+  "title": "\u30bb\u30af\u30b7\u30e7\u30f31: \u306f\u3058\u3081\u306b",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "\u30bb\u30af\u30b7\u30e7\u30f31: \u306f\u3058\u3081\u306b",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. Conclusion",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. Discussion",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. Results",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.2.3 METHODOLOGY",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.3 R3SULTS",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3.4.2 CONCLUSION",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.5.3 Conclusion",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. References",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. Methodology",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "5.4.3 Introduction",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.4.3 DISCUSSION",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "6. M3TH0D0L0GY",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7.5.1 METHODOLOGY",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7.4.2 R3sults",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "8.4 Discussion",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "9.3.1 Methodology",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10. Methodology",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "10.1.1 R3f3r3nc3s",
+      "page": 9
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

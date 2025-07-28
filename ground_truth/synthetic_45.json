@@ -1,0 +1,130 @@
+{
+  "title": "Document Title 85",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 85",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. Introduction",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.5.3 Discussion",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.2.2 Introduction",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. References",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.1.1 C0NCLUSI0N",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.4.1 Results",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. Methodology",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.2.3 INTRODUCTION",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.5.1 Conclusion",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. METHODOLOGY",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Methodology",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Conclusion",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.2.3 References",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6.5.2 REFERENCES",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7.3.2 RESULTS",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "7.3 Introduction",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "8.2 References",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. Introduction",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. Introduction",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "9. Methodology",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "9.5.3 Discussion",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "9.3.2 DISCUSSION",
+      "page": 8
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

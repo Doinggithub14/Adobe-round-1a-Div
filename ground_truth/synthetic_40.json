@@ -1,0 +1,55 @@
+{
+  "title": "Document Title 34",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 34",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. CONCLUSION",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. References",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. Results",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. Methodology",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.5.3 Results",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. References",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.5.2 R3sults",
+      "page": 2
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

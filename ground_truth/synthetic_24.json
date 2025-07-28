@@ -1,0 +1,130 @@
+{
+  "title": "Document Title 29",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 29",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. Conclusion",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.2.2 Introduction",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "1.4 CONCLUSION",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. CONCLUSION",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.2 R3sults",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.2 M3th0d0l0gy",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4. R3sults",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.5.3 Discussion",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Introduction",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.3 Results",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "5.5 References",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.3.3 Introduction",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "6.3 Discussion",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "6.4 REFERENCES",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "7.3 METHODOLOGY",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7.2.2 Introduction",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7.2.1 REFERENCES",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "8.4 Discussion",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. Discussion",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. REFERENCES",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "9. RESULTS",
+      "page": 8
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

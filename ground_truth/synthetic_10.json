@@ -1,0 +1,120 @@
+{
+  "title": "Document Title 90",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 90",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "1.1 Methodology",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "1. Conclusion",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2.5.2 C0nclusi0n",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. Results",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.1.1 Results",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.1.2 Discussion",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.2.1 DISCUSSION",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.2 Conclusion",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.3.3 Results",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6.3.1 Results",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "7. RESULTS",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "7. INTRODUCTION",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7.5.1 Introduction",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "8.5 Results",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "9.2 Results",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10. References",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "10. Conclusion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "10.5.1 Introduction",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "11.3.1 DISCUSSI0N",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "12.5.2 Conclusion",
+      "page": 11
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Document Title 8",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 8",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.2.2 RESULTS",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.4.3 REFERENCES",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "2. Discussion",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3.3.3 DISCUSSI0N",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.2.2 INTRODUCTION",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.3 Conclusion",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4.1 Discussion",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.3.2 Results",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "5. References",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "5.4 References",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "6.4 References",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "6.4 R3F3R3NC3S",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "7.5 Results",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "8.5.2 R3sults",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. DISCUSSI0N",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "9.5 M3th0d0l0gy",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "9.4 References",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "10.1 Conclusion",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "10.2 Conclusion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "11.3.3 Intr0ducti0n",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "12.4 C0nclusi0n",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "12.5.2 Discussion",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "13.4.1 References",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "13. Conclusion",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "14. R3sults",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "14.3.3 References",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "14.1 R3F3R3NC3S",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "15.2 REFERENCES",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "15.2.3 C0NCLUSI0N",
+      "page": 14
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

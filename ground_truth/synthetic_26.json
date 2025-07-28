@@ -1,0 +1,155 @@
+{
+  "title": "Document Title 57",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 57",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.1.1 C0nclusi0n",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.2.2 Introduction",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.4.1 Methodology",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "2.4 Methodology",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3.4.3 C0nclusi0n",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3. Discussion",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4. Discussi0n",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "5. Methodology",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.2.3 References",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "6. Discussion",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "6. Introduction",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7.2.1 CONCLUSION",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "7. DISCUSSI0N",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "8.1 Results",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "8.2 Discussi0n",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "9.2 DISCUSSION",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "10. M3th0d0l0gy",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "11.3 INTRODUCTION",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "12. METHODOLOGY",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "13.3.2 C0nclusi0n",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "13.2.1 METHODOLOGY",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "14.5 REFERENCES",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "14.2.1 References",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "15.5 R3F3R3NC3S",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "15.2.2 Results",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "15.3.1 Methodology",
+      "page": 14
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

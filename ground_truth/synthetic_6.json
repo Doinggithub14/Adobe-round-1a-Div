@@ -1,0 +1,115 @@
+{
+  "title": "Document Title 82",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 82",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.5.3 R3f3r3nc3s",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.2.3 DISCUSSION",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2.2.1 Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.4 Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.4 M3TH0D0L0GY",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "3.2.3 Results",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.5.3 M3TH0D0L0GY",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.2.2 Introduction",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Discussion",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.2.1 CONCLUSION",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.2.2 Results",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.5 References",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.3.3 REFERENCES",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "5. Conclusion",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6.5.1 RESULTS",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "6. METHODOLOGY",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "7. Introduction",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "7. METHODOLOGY",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "7.3 Methodology",
+      "page": 6
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

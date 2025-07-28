@@ -1,0 +1,38 @@
+# Python
+_pycache_/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Output or generated files
+output/
+*.log
+
+# Model files
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+*.swp

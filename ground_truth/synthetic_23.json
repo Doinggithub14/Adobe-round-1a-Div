@@ -1,0 +1,65 @@
+{
+  "title": "Abschnitt 1: Einf\u00fchrung",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Abschnitt 1: Einf\u00fchrung",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.5.3 Introduction",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.3.1 METHODOLOGY",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2.5.3 INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. Methodology",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3. Discussion",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4. Methodology",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.5.1 Conclusion",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "5.4 REFERENCES",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "6. Conclusion",
+      "page": 5
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

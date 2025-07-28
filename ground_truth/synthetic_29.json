@@ -1,0 +1,60 @@
+{
+  "title": "Document Title 60",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 60",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "1.5 Discussion",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "1.5 References",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "2.5 Methodology",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Conclusion",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "3.1.3 METHODOLOGY",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "4.3 Results",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.2 References",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.1.2 Introduction",
+      "page": 3
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}

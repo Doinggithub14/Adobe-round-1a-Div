@@ -1,0 +1,140 @@
+{
+  "title": "Document Title 69",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Document Title 69",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "1.5.2 C0NCLUSI0N",
+      "page": 0
+    },
+    {
+      "level": "H3",
+      "text": "2.2.2 References",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2. References",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "2.1 Conclusion",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. Discussion",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Introduction",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.2 DISCUSSION",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "4.4.2 Methodology",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "5. Results",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "5.1.2 References",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "6.3.1 M3th0d0l0gy",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "6.2.3 METHODOLOGY",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "7.2.1 INTRODUCTION",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "7.5.3 Methodology",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "7. Conclusion",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "8. References",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "8. Discussion",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "8.1.1 Introduction",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "9.1.2 RESULTS",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "9.2.2 CONCLUSION",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "10.1.3 M3TH0D0L0GY",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "10. Results",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "11.4.3 Methodology",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "11.4.1 CONCLUSION",
+      "page": 10
+    }
+  ],
+  "metadata": {
+    "generator": "synthetic_data.py",
+    "variability_features": [
+      "mixed_headings",
+      "random_body_text",
+      "tables",
+      "lists",
+      "noise_injection"
+    ]
+  }
+}
