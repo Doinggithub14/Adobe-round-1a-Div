@@ -51,5 +51,5 @@ if __name__ == "__main__":
             os.rmdir(test_output_dir) # Clean up test directory
             print(f"\nCleaned up test file and directory: {test_output_path}, {test_output_dir}")
         else:
-            print("Failed to create JSON file for verification.")
+            print("Failed to create JSON file for verification. sad but we tried")
     
